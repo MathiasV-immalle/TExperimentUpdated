@@ -29,6 +29,15 @@ img {
     clear: both;
 }
 
+.menu-textbox b span{
+    text-decoration: underline;
+    text-decoration-color: rgb(187,212,58);
+}
+.menu-textbox p kleur{
+    color: rgb(187,212,58);
+    text-decoration: none
+}
+
 /* -----column-system----- */
 
 .col-1 {
