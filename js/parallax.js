@@ -1,5 +1,7 @@
 $(window).scroll(function() {
-    parallax();
+    if (window.innerWidth > 960){
+        parallax();
+    }
 })
 
 function parallax() {
